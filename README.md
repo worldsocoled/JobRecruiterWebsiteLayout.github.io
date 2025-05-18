@@ -61,13 +61,13 @@ A modern, responsive website layout showcasing advanced front-end development te
 
 ## 🖥️ Live Demo
 
-[View Live Demo](https://yourusername.github.io/talentsphere-pro-layout/)
+[View Live Demo](https://worldsocoled.github.io/talentsphere-pro-layout/)
 
 ## ⚙️ Setup Instructions
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/talentsphere-pro-layout.git
+git clone https://github.com/worldsocoled/talentsphere-pro-layout.git
 ```
 
 2. Open in browser:
